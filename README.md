@@ -6,4 +6,4 @@ This work describes a method to prepare the quantum state of the Heisenberg spin
 
 See details at
 
-![ arXiv:2304.04516](https://arxiv.org/abs/2304.04516 "arXiv:2304.04516")
+![arXiv:2304.04516](https://arxiv.org/abs/2304.04516)
