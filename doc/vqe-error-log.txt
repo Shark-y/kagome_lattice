@@ -1,0 +1,167 @@
+2022-12-10T19:49:19.032031437Z Setting up watches.
+2022-12-10T19:49:19.032031437Z Watches established.
+2022-12-10T19:49:20.290344177Z INFO:     Started server process [7]
+2022-12-10T19:49:20.290396604Z INFO:     Waiting for application startup.
+2022-12-10T19:49:20.290621956Z INFO:     Application startup complete.
+2022-12-10T19:49:20.291467158Z INFO:     Uvicorn running on http://127.0.0.1:8081 (Press CTRL+C to quit)
+2022-12-10T19:52:08.072398260Z INFO:     127.0.0.1:56802 - "POST /run HTTP/1.1" 202 Accepted
+2022-12-10T19:52:09.347725143Z /opt/app-root/lib64/python3.9/site-packages/qiskit_ibm_runtime/qpy/interface.py:255: UserWarning: The qiskit version used to generate the provided QPY file, 0.22.3, is newer than the current qiskit version 0.22.2. This may result in an error if the QPY file uses instructions not present in this current qiskit version
+2022-12-10T19:52:09.347725143Z   warnings.warn(
+2022-12-10T19:53:31.996517426Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_bb4f_1]
+2022-12-10T19:53:31.996517426Z Error message: Internal Error. Error code: 9999.
+2022-12-10T19:53:58.466608961Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_e264_2]
+2022-12-10T19:53:58.466608961Z Error message: Internal Error. Error code: 9999.
+2022-12-10T19:54:24.432986089Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_3da6_3]
+2022-12-10T19:54:24.432986089Z Error message: Internal Error. Error code: 9999.
+2022-12-10T19:55:25.873246473Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_4416_5]
+2022-12-10T19:55:25.873246473Z Error message: Internal Error. Error code: 9999.
+2022-12-10T19:55:52.241326196Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_eedb_6]
+2022-12-10T19:55:52.241326196Z Error message: Internal Error. Error code: 9999.
+2022-12-10T19:56:17.003983542Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_09eb_7]
+2022-12-10T19:56:17.003983542Z Error message: Internal Error. Error code: 9999.
+2022-12-10T19:56:43.370914856Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_eeb2_8]
+2022-12-10T19:56:43.370914856Z Error message: Internal Error. Error code: 9999.
+2022-12-10T19:57:44.569506034Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_bad2_10]
+2022-12-10T19:57:44.569506034Z Error message: Internal Error. Error code: 9999.
+2022-12-10T19:58:08.548702527Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_6e98_11]
+2022-12-10T19:58:08.548702527Z Error message: Internal Error. Error code: 9999.
+2022-12-10T19:58:34.912075608Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_eab3_12]
+2022-12-10T19:58:34.912075608Z Error message: Internal Error. Error code: 9999.
+2022-12-10T19:58:59.301584290Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_dca2_13]
+2022-12-10T19:58:59.301584290Z Error message: Internal Error. Error code: 9999.
+2022-12-10T20:00:42.471575343Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_3afc_16]
+2022-12-10T20:00:42.471575343Z Error message: Internal Error. Error code: 9999.
+2022-12-10T20:01:07.124460157Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_332b_17]
+2022-12-10T20:01:07.124460157Z Error message: Internal Error. Error code: 9999.
+2022-12-10T20:01:31.726511592Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_01f8_18]
+2022-12-10T20:01:31.726511592Z Error message: Internal Error. Error code: 9999.
+2022-12-10T20:02:42.251474104Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_75d9_20]
+2022-12-10T20:02:42.251474104Z Error message: Internal Error. Error code: 9999.
+2022-12-10T20:03:06.595844208Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_8869_21]
+2022-12-10T20:03:06.595844208Z Error message: Internal Error. Error code: 9999.
+2022-12-10T20:03:31.640738002Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_751b_22]
+2022-12-10T20:03:31.640738002Z Error message: Internal Error. Error code: 9999.
+2022-12-10T20:03:56.195332628Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_ee22_23]
+2022-12-10T20:03:56.195332628Z Error message: Internal Error. Error code: 9999.
+2022-12-10T20:08:19.418333240Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_7992_30]
+2022-12-10T20:08:19.418333240Z Error message: Internal Error. Error code: 9999.
+2022-12-10T20:08:44.091430193Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_4e8f_31]
+2022-12-10T20:08:44.091430193Z Error message: Internal Error. Error code: 9999.
+2022-12-10T20:09:08.763163428Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_9eb1_32]
+2022-12-10T20:09:08.763163428Z Error message: Internal Error. Error code: 9999.
+2022-12-10T20:09:33.306866168Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_9570_33]
+2022-12-10T20:09:33.306866168Z Error message: Internal Error. Error code: 9999.
+2022-12-10T20:13:59.657848442Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_2f4c_40]
+2022-12-10T20:13:59.657848442Z Error message: Internal Error. Error code: 9999.
+2022-12-10T20:14:26.499197265Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_1604_41]
+2022-12-10T20:14:26.499197265Z Error message: Internal Error. Error code: 9999.
+2022-12-10T20:14:51.573433420Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_b8fe_42]
+2022-12-10T20:14:51.573433420Z Error message: Internal Error. Error code: 9999.
+2022-12-10T20:15:17.309458191Z qiskit_experiments.framework.experiment_data - ERROR Job data not added for errorred job [Job ID: estimator_ceae6ht2b2ltm2kag1bg_88f5_43]
+2022-12-10T20:15:17.309458191Z Error message: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.219348114Z /opt/app-root/lib64/python3.9/site-packages/pec_runtime/experiment/lindblad_estimation/cached_lindblad_estimation.py:102: UserWarning: LindbladEstimation experiment failed
+2022-12-10T20:22:11.219348114Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_7992_30]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.219348114Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_4e8f_31]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.219348114Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_9eb1_32]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.219348114Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_9570_33]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.219348114Z   warnings.warn("LindbladEstimation experiment failed" + expdata.errors())
+2022-12-10T20:22:11.229911442Z /opt/app-root/lib64/python3.9/site-packages/pec_runtime/experiment/lindblad_estimation/cached_lindblad_estimation.py:102: UserWarning: LindbladEstimation experiment failed
+2022-12-10T20:22:11.229911442Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_75d9_20]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.229911442Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_8869_21]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.229911442Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_751b_22]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.229911442Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_ee22_23]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.229911442Z   warnings.warn("LindbladEstimation experiment failed" + expdata.errors())
+2022-12-10T20:22:11.460091583Z /opt/app-root/lib64/python3.9/site-packages/pec_runtime/experiment/lindblad_estimation/cached_lindblad_estimation.py:102: UserWarning: LindbladEstimation experiment failed
+2022-12-10T20:22:11.460091583Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_4416_5]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.460091583Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_eedb_6]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.460091583Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_09eb_7]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.460091583Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_eeb2_8]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.460091583Z   warnings.warn("LindbladEstimation experiment failed" + expdata.errors())
+2022-12-10T20:22:11.469624312Z /opt/app-root/lib64/python3.9/site-packages/pec_runtime/experiment/lindblad_estimation/cached_lindblad_estimation.py:102: UserWarning: LindbladEstimation experiment failed
+2022-12-10T20:22:11.469624312Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_2f4c_40]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.469624312Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_1604_41]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.469624312Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_b8fe_42]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.469624312Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_88f5_43]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.469624312Z   warnings.warn("LindbladEstimation experiment failed" + expdata.errors())
+2022-12-10T20:22:11.486856591Z /opt/app-root/lib64/python3.9/site-packages/pec_runtime/experiment/lindblad_estimation/cached_lindblad_estimation.py:102: UserWarning: LindbladEstimation experiment failed
+2022-12-10T20:22:11.486856591Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_bad2_10]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.486856591Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_6e98_11]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.486856591Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_eab3_12]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.486856591Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_dca2_13]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.486856591Z   warnings.warn("LindbladEstimation experiment failed" + expdata.errors())
+2022-12-10T20:22:11.504287971Z /opt/app-root/lib64/python3.9/site-packages/pec_runtime/experiment/lindblad_estimation/cached_lindblad_estimation.py:102: UserWarning: LindbladEstimation experiment failed
+2022-12-10T20:22:11.504287971Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_3afc_16]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.504287971Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_332b_17]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.504287971Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_01f8_18]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.504287971Z   warnings.warn("LindbladEstimation experiment failed" + expdata.errors())
+2022-12-10T20:22:11.513861478Z /opt/app-root/lib64/python3.9/site-packages/pec_runtime/experiment/lindblad_estimation/cached_lindblad_estimation.py:102: UserWarning: LindbladEstimation experiment failed
+2022-12-10T20:22:11.513861478Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_bb4f_1]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.513861478Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_e264_2]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.513861478Z [Job ID: estimator_ceae6ht2b2ltm2kag1bg_3da6_3]: Internal Error. Error code: 9999.
+2022-12-10T20:22:11.513861478Z   warnings.warn("LindbladEstimation experiment failed" + expdata.errors())
+2022-12-10T20:27:08.906705055Z --- Logging error ---
+2022-12-10T20:27:08.907675158Z Traceback (most recent call last):
+2022-12-10T20:27:08.907697868Z   File "/provider/programruntime/program_starter_wrapper.py", line 88, in execute
+2022-12-10T20:27:08.907697868Z     final_result = self.main(backend, self.messenger, **self.user_params)
+2022-12-10T20:27:08.907697868Z   File "/code/./program.py", line 1451, in main
+2022-12-10T20:27:08.907697868Z     result = estimator.run(
+2022-12-10T20:27:08.907708345Z   File "/opt/app-root/lib64/python3.9/site-packages/pec_runtime/primitives/estimator.py", line 212, in run
+2022-12-10T20:27:08.907708345Z     return self._run(
+2022-12-10T20:27:08.907708345Z   File "/opt/app-root/lib64/python3.9/site-packages/pec_runtime/primitives/estimator.py", line 256, in _run
+2022-12-10T20:27:08.907708345Z     counts_list, metadata_list = self._run_circuit_templates(
+2022-12-10T20:27:08.907708345Z   File "/opt/app-root/lib64/python3.9/site-packages/pec_runtime/primitives/estimator.py", line 341, in _run_circuit_templates
+2022-12-10T20:27:08.907708345Z     result, metadata = run_twirled_circuits(
+2022-12-10T20:27:08.907708345Z   File "/opt/app-root/lib64/python3.9/site-packages/pec_runtime/primitives/estimator.py", line 514, in run_twirled_circuits
+2022-12-10T20:27:08.907708345Z     return job.result(), metadata
+2022-12-10T20:27:08.907720279Z   File "/provider/programruntime/runtime_job.py", line 83, in result
+2022-12-10T20:27:08.907720279Z     raise JobError(
+2022-12-10T20:27:08.907720279Z qiskit.providers.exceptions.JobError: 'Unable to retrieve result for job estimator_ceae6ht2b2ltm2kag1bg_f054_55. Job has failed: Internal Error. Error code: 9999.'
+2022-12-10T20:27:08.907727345Z 
+2022-12-10T20:27:08.907727345Z During handling of the above exception, another exception occurred:
+2022-12-10T20:27:08.907727345Z 
+2022-12-10T20:27:08.907734942Z Traceback (most recent call last):
+2022-12-10T20:27:08.907744101Z   File "/usr/lib64/python3.9/logging/__init__.py", line 1083, in emit
+2022-12-10T20:27:08.907744101Z     msg = self.format(record)
+2022-12-10T20:27:08.907744101Z   File "/usr/lib64/python3.9/logging/__init__.py", line 927, in format
+2022-12-10T20:27:08.907744101Z     return fmt.format(record)
+2022-12-10T20:27:08.907744101Z   File "/usr/lib64/python3.9/logging/__init__.py", line 663, in format
+2022-12-10T20:27:08.907744101Z     record.message = record.getMessage()
+2022-12-10T20:27:08.907744101Z   File "/usr/lib64/python3.9/logging/__init__.py", line 367, in getMessage
+2022-12-10T20:27:08.907744101Z     msg = msg % self.args
+2022-12-10T20:27:08.907767525Z TypeError: not all arguments converted during string formatting
+2022-12-10T20:27:08.907767525Z Call stack:
+2022-12-10T20:27:08.908260420Z   File "/usr/lib64/python3.9/threading.py", line 937, in _bootstrap
+2022-12-10T20:27:08.908260420Z     self._bootstrap_inner()
+2022-12-10T20:27:08.908260420Z   File "/usr/lib64/python3.9/threading.py", line 980, in _bootstrap_inner
+2022-12-10T20:27:08.908260420Z     self.run()
+2022-12-10T20:27:08.908273655Z   File "/opt/app-root/lib64/python3.9/site-packages/anyio/_backends/_asyncio.py", line 867, in run
+2022-12-10T20:27:08.908273655Z     result = context.run(func, *args)
+2022-12-10T20:27:08.908273655Z   File "/provider/server/main.py", line 75, in execute_program
+2022-12-10T20:27:08.908273655Z     starter.execute()
+2022-12-10T20:27:08.908273655Z   File "/provider/programruntime/program_starter_wrapper.py", line 92, in execute
+2022-12-10T20:27:08.908273655Z     logger.error(
+2022-12-10T20:27:08.908281310Z Message: 'Error executing program job ceae6ht2b2ltm2kag1bg'
+2022-12-10T20:27:08.908281310Z Arguments: (JobError('Unable to retrieve result for job estimator_ceae6ht2b2ltm2kag1bg_f054_55. Job has failed: Internal Error. Error code: 9999.'),)
+2022-12-10T20:27:09.138462576Z webserver-starter - ERROR Failed to execute program: 'Unable to retrieve result for job estimator_ceae6ht2b2ltm2kag1bg_f054_55. Job has failed: Internal Error. Error code: 9999.'
+2022-12-10T20:27:09.138462576Z Traceback (most recent call last):
+2022-12-10T20:27:09.138462576Z   File "/provider/server/main.py", line 75, in execute_program
+2022-12-10T20:27:09.138462576Z     starter.execute()
+2022-12-10T20:27:09.138462576Z   File "/provider/programruntime/program_starter_wrapper.py", line 96, in execute
+2022-12-10T20:27:09.138462576Z     raise ex
+2022-12-10T20:27:09.138462576Z   File "/provider/programruntime/program_starter_wrapper.py", line 88, in execute
+2022-12-10T20:27:09.138462576Z     final_result = self.main(backend, self.messenger, **self.user_params)
+2022-12-10T20:27:09.138462576Z   File "/code/./program.py", line 1451, in main
+2022-12-10T20:27:09.138462576Z     result = estimator.run(
+2022-12-10T20:27:09.138462576Z   File "/opt/app-root/lib64/python3.9/site-packages/pec_runtime/primitives/estimator.py", line 212, in run
+2022-12-10T20:27:09.138462576Z     return self._run(
+2022-12-10T20:27:09.138462576Z   File "/opt/app-root/lib64/python3.9/site-packages/pec_runtime/primitives/estimator.py", line 256, in _run
+2022-12-10T20:27:09.138462576Z     counts_list, metadata_list = self._run_circuit_templates(
+2022-12-10T20:27:09.138462576Z   File "/opt/app-root/lib64/python3.9/site-packages/pec_runtime/primitives/estimator.py", line 341, in _run_circuit_templates
+2022-12-10T20:27:09.138462576Z     result, metadata = run_twirled_circuits(
+2022-12-10T20:27:09.138462576Z   File "/opt/app-root/lib64/python3.9/site-packages/pec_runtime/primitives/estimator.py", line 514, in run_twirled_circuits
+2022-12-10T20:27:09.138462576Z     return job.result(), metadata
+2022-12-10T20:27:09.138462576Z   File "/provider/programruntime/runtime_job.py", line 83, in result
+2022-12-10T20:27:09.138462576Z     raise JobError(
+2022-12-10T20:27:09.138462576Z qiskit.providers.exceptions.JobError: 'Unable to retrieve result for job estimator_ceae6ht2b2ltm2kag1bg_f054_55. Job has failed: Internal Error. Error code: 9999.'
+2022-12-10T20:27:10.812373985Z /pod-data/ CLOSE_WRITE,CLOSE terminated
+2022-12-10T20:27:10.816403826Z Termination marker file found. Kill process (7).

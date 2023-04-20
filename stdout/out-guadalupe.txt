@@ -1,0 +1,1349 @@
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : ExcitationPreserving
+Optimizer  : SPSA
+Resilience : ZNE shots: 2048 weight: -1.8992
+Environment:  {'hub': 'ibm-q-ncsu', 'group': 'nc-state', 'project': 'grad-qc-class', 'transpile_backend': 'ibmq_guadalupe', 'run_backend': 'ibmq_guadalupe', 'num_qubits': 16, 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4], 'shots': 2048}
+Number and type of gates in the cirucit: OrderedDict([('rz', 148), ('sx', 56), ('cx', 44)])
+Number of parameters in the circuit: 35
+Execution time (s): 70528.39
+Computed ground state energy: -13.92097526
+Result eigen value: -13.92097526
+Expected ground state energy: -18.00000000
+Computed ground state energy: -13.92097526
+Relative error: 22.66124855 %
+--------
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : ExcitationPreserving
+Optimizer  : SPSA
+Resilience : ZNE shots: 2048 weight: -2.8992
+Environment:  {'hub': 'ibm-q-ncsu', 'group': 'nc-state', 'project': 'grad-qc-class', 'transpile_backend': 'ibmq_guadalupe', 'run_backend': 'ibmq_guadalupe', 'num_qubits': 16, 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4], 'shots': 2048}
+Number and type of gates in the cirucit: OrderedDict([('rz', 148), ('sx', 56), ('cx', 44)])
+Number of parameters in the circuit: 35
+Execution time (s): 60527.23
+Computed ground state energy: -21.29477500
+Result eigen value: -21.29477500
+Expected ground state energy: -18.00000000
+Computed ground state energy: -21.29477500
+Relative error: 18.30430556 %
+-----------
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : ExcitationPreserving
+Optimizer  : SPSA
+Resilience : ZNE shots: 2048 weight: -3.8992
+Environment:  {'hub': 'ibm-q-ncsu', 'group': 'nc-state', 'project': 'grad-qc-class', 'transpile_backend': 'ibmq_guadalupe', 'run_backend': 'ibmq_guadalupe', 'num_qubits': 16, 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4], 'shots': 2048}
+Number and type of gates in the cirucit: OrderedDict([('rz', 148), ('sx', 56), ('cx', 44)])
+Number of parameters in the circuit: 35
+Execution time (s): 66018.96
+Computed ground state energy: -29.76630495
+Result eigen value: -29.76630495
+Expected ground state energy: -18.00000000
+Computed ground state energy: -29.76630495
+Relative error: 65.36836082 %
+-----------
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : SPSA
+Resilience : ZNE shots: 2048 weight: 2.1900
+Environment:  {'hub': 'ibm-q-ncsu', 'group': 'nc-state', 'project': 'grad-qc-class', 'transpile_backend': 'ibmq_guadalupe', 'run_backend': 'ibmq_guadalupe', 'num_qubits': 16, 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4], 'shots': 2048}
+Number and type of gates in the cirucit: OrderedDict([('rz', 36), ('sx', 24), ('cx', 11)])
+Number of parameters in the circuit: 24
+Execution time (s): 15010.49
+Computed ground state energy: -26.19088867
+Result eigen value: -26.19088867
+Expected ground state energy: -18.00000000
+Computed ground state energy: -26.19088867
+Relative error: 45.50493707 %
+-------------
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : ExcitationPreserving
+Optimizer  : SPSA
+Resilience : ZNE shots: 2048 weight: -2.8000
+Environment:  {'hub': 'ibm-q-ncsu', 'group': 'nc-state', 'project': 'grad-qc-class', 'transpile_backend': 'ibmq_guadalupe', 'run_backend': 'ibmq_guadalupe', 'num_qubits': 16, 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4], 'shots': 2048}
+Number and type of gates in the cirucit: OrderedDict([('rz', 148), ('sx', 56), ('cx', 44)])
+Number of parameters in the circuit: 35
+Execution time (s): 15300.85
+Computed ground state energy: -22.08053385
+Result eigen value: -22.08053385
+Expected ground state energy: -18.00000000
+Computed ground state energy: -22.08053385
+Relative error: 22.66963252 %
+-------------
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : ExcitationPreserving
+Optimizer  : SPSA
+Resilience : ZNE shots: 2048 weight: -2.6000
+Environment:  {'hub': 'ibm-q-ncsu', 'group': 'nc-state', 'project': 'grad-qc-class', 'transpile_backend': 'ibmq_guadalupe', 'run_backend': 'ibmq_guadalupe', 'num_qubits': 16, 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4], 'shots': 2048}
+Number and type of gates in the cirucit: OrderedDict([('rz', 148), ('sx', 56), ('cx', 44)])
+Number of parameters in the circuit: 35
+Execution time (s): 21058.98
+Computed ground state energy: -17.20045573
+Result eigen value: -17.20045573
+Expected ground state energy: -18.00000000
+Computed ground state energy: -17.20045573
+Relative error: 4.44191262 %
+-----------
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : SPSA
+Resilience : ZNE shots: 2048 weight: 2.0000
+Environment:  {'hub': 'ibm-q-ncsu', 'group': 'nc-state', 'project': 'grad-qc-class', 'transpile_backend': 'ibmq_guadalupe', 'run_backend': 'ibmq_guadalupe', 'num_qubits': 16, 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4], 'shots': 2048}
+Number and type of gates in the cirucit: OrderedDict([('rz', 36), ('sx', 24), ('cx', 11)])
+Number of parameters in the circuit: 24
+Execution time (s): 97831.97
+Computed ground state energy: -21.53808594
+Result eigen value: -21.53808594
+Expected ground state energy: -18.00000000
+Computed ground state energy: -21.53808594
+Relative error: 19.65603299 %
+------------
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : POWELL
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : SPSA
+Resilience : ZNE shots: 2048 weight: 1.9000
+Environment:  {'hub': 'ibm-q-ncsu', 'group': 'nc-state', 'project': 'grad-qc-class', 'transpile_backend': 'ibmq_guadalupe', 'run_backend': 'ibmq_guadalupe', 'num_qubits': 16, 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4], 'shots': 2048}
+Number and type of gates in the cirucit: OrderedDict([('rz', 36), ('sx', 24), ('cx', 11)])
+Number of parameters in the circuit: 24
+Execution time (s): 102658.02
+Computed ground state energy: -19.38377279
+Result eigen value: -19.38377279
+Expected ground state energy: -18.00000000
+Computed ground state energy: -19.38377279
+Relative error: 7.68762659 %
+-------------
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : ExcitationPreserving
+Optimizer  : SPSA
+Resilience : ZNE shots: 2048 weight: -2.4000
+Environment:  {'hub': 'ibm-q-ncsu', 'group': 'nc-state', 'project': 'grad-qc-class', 'transpile_backend': 'ibmq_guadalupe', 'run_backend': 'ibmq_guadalupe', 'num_qubits': 16, 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4], 'shots': 2048}
+Number and type of gates in the cirucit: OrderedDict([('rz', 148), ('sx', 56), ('cx', 44)])
+Number of parameters in the circuit: 35
+Execution time (s): 113953.17
+Computed ground state energy: -18.15273438
+Result eigen value: -18.15273438
+Expected ground state energy: -18.00000000
+Computed ground state energy: -18.15273438
+Relative error: 0.84852431 %
+----------------
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : SPSA
+Resilience : ZNE shots: 2048 weight: 2.1000
+Environment:  {'hub': 'ibm-q-ncsu', 'group': 'nc-state', 'project': 'grad-qc-class', 'transpile_backend': 'ibmq_guadalupe', 'run_backend': 'ibmq_guadalupe', 'num_qubits': 16, 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4], 'shots': 2048}
+Number and type of gates in the cirucit: OrderedDict([('rz', 36), ('sx', 24), ('cx', 11)])
+Number of parameters in the circuit: 24
+-----------------
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : ExcitationPreserving
+Optimizer  : SPSA
+Resilience : ZNE shots: 2048 weight: -2.7000
+Environment:  {'hub': 'ibm-q-ncsu', 'group': 'nc-state', 'project': 'grad-qc-class', 'transpile_backend': 'ibmq_guadalupe', 'run_backend': 'ibmq_guadalupe', 'num_qubits': 16, 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4], 'shots': 2048}
+Number and type of gates in the cirucit: OrderedDict([('rz', 148), ('sx', 56), ('cx', 44)])
+Number of parameters in the circuit: 35
+Execution time (s): 76218.44
+Computed ground state energy: -19.97973633
+Result eigen value: -19.97973633
+Expected ground state energy: -18.00000000
+Computed ground state energy: -19.97973633
+Relative error: 10.99853516 %
+-----------
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : SPSA
+Resilience : ZNE shots: 2048 weight: 1.8500
+Optim lev  : 1 uniform_potential: -0.0000
+Environment:  {'hub': 'ibm-q-ncsu', 'group': 'nc-state', 'project': 'grad-qc-class', 'transpile_backend': 'ibmq_guadalupe', 'run_backend': 'ibmq_guadalupe', 'num_qubits': 16, 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4], 'shots': 2048, 'opt_level': 1, 'uniform_interaction': 1.85, 'uniform_potential': -0.0}
+Number and type of gates in the cirucit: OrderedDict([('rz', 36), ('sx', 24), ('cx', 11)])
+Number of parameters in the circuit: 24
+Execution time (s): 141481.09
+Computed ground state energy: -22.49869792
+Result eigen value: -22.49869792
+Expected ground state energy: -18.00000000
+Computed ground state energy: -22.49869792
+Relative error: 24.99276620 %
+---------
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : SPSA
+Resilience : ZNE shots: 2048 weight: 1.7000
+Optim lev  : 1 uniform_potential: -0.0000
+Environment:  {'hub': 'ibm-q-ncsu', 'group': 'nc-state', 'project': 'grad-qc-class', 'transpile_backend': 'ibmq_guadalupe', 'run_backend': 'ibmq_guadalupe', 'num_qubits': 16, 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4], 'shots': 2048, 'opt_level': 1, 'uniform_interaction': 1.7, 'uniform_potential': -0.0}
+Number and type of gates in the cirucit: OrderedDict([('rz', 36), ('sx', 24), ('cx', 11)])
+Number of parameters in the circuit: 24
+Execution time (s): 146123.74
+Computed ground state energy: -24.04016927
+Result eigen value: -24.04016927
+Expected ground state energy: -18.00000000
+Computed ground state energy: -24.04016927
+Relative error: 33.55649595 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 3.0000
+Optim lev  : 1 uniform_potential: -1.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 3.0,
+ 'uniform_potential': -1.0,
+ 'verbosity': 2}
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.0000
+Optim lev  : 1 uniform_potential: -1.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.0,
+ 'uniform_potential': -1.0,
+ 'verbosity': 2}
+Execution time (s): 510523.23
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 175,
+    'eigenstate': None,
+    'eigenvalue': -15.37630208333334,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 2.72446552, -1.9902664 , -0.08933631, -1.47741795,  3.02370184,
+        4.98183097, -0.11170612,  4.35232597,  3.21244552, -0.50224343,
+        0.02791768,  1.42064137,  3.46187399, -0.0792633 ,  0.72797108,
+        0.19635117, -0.18073891, -0.06223294, -0.77634007,  0.67350481,
+        1.60588009, -0.24869821,  1.18185541,  0.60758544]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -15.37630208
+Result eigen value: -15.37630208
+Expected ground state energy: -18.00000000
+Computed ground state energy: -15.37630208
+Relative error: 14.57609954 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 2.0000
+Optim lev  : 1 uniform_potential: -1.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 2.0,
+ 'uniform_potential': -1.0,
+ 'verbosity': 2}
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: -1.0000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': -1.0,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 515339.00
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 175,
+    'eigenstate': None,
+    'eigenvalue': -16.36751302083334,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 7.37955842e-02,  8.22538021e-02, -2.19280197e-02, -3.58518598e-03,
+        3.64225696e-02, -2.82585898e-02,  9.94949524e-02,  1.39027556e-03,
+        6.31109432e-02, -5.12976460e-02, -8.74361192e-02, -4.60572884e-02,
+        6.02572516e-04, -4.05609504e-01,  2.58682714e+00,  7.31142474e-02,
+       -5.05009504e-01,  5.99094132e+00,  2.99664087e-01,  9.29961357e-01,
+        1.44340120e+00,  1.57153266e+00,  6.12034512e-01, -3.56703391e-01]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -16.36751302
+Result eigen value: -16.36751302
+Expected ground state energy: -18.00000000
+Computed ground state energy: -16.36751302
+Relative error: 9.06937211 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: -2.0000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': -2.0,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 522702.88
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 175,
+    'eigenstate': None,
+    'eigenvalue': -32.01595052083334,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 0.009569  ,  0.06267294, -0.04383458,  0.09479344, -0.06669797,
+        0.01290953,  0.09532696,  0.00642684, -0.0089681 , -0.05998833,
+       -0.08012231,  0.04124432,  0.8559788 ,  4.45831872, -0.09114336,
+        0.60462183,  1.42593056, -0.57108983,  0.75851202, -0.68841784,
+        0.76105099,  0.14455594,  0.57194058,  0.43338424]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -32.01595052
+Result eigen value: -32.01595052
+Expected ground state energy: -18.00000000
+Computed ground state energy: -32.01595052
+Relative error: 77.86639178 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : SPSA
+Resilience : ZNE shots: 2048 weight: 1.8000
+Optim lev  : 1 uniform_potential: -0.0000
+Environment:  {'hub': 'ibm-q-ncsu', 'group': 'nc-state', 'project': 'grad-qc-class', 'transpile_backend': 'ibmq_guadalupe', 'run_backend': 'ibmq_guadalupe', 'num_qubits': 16, 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4], 'shots': 2048, 'opt_level': 1, 'uniform_interaction': 1.8, 'uniform_potential': -0.0}
+Number and type of gates in the cirucit: OrderedDict([('rz', 36), ('sx', 24), ('cx', 11)])
+Number of parameters in the circuit: 24
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : ExcitationPreserving
+Optimizer  : SPSA
+Resilience : ZNE shots: 2048 weight: -2.4000
+Optim lev  : 1 uniform_potential: -0.0000
+Environment:  {'hub': 'ibm-q-ncsu', 'group': 'nc-state', 'project': 'grad-qc-class', 'transpile_backend': 'ibmq_guadalupe', 'run_backend': 'ibmq_guadalupe', 'num_qubits': 16, 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4], 'shots': 2048, 'opt_level': 1, 'uniform_interaction': -2.4, 'uniform_potential': -0.0}
+Number and type of gates in the cirucit: OrderedDict([('rz', 148), ('sx', 56), ('cx', 44)])
+Number of parameters in the circuit: 35
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.1000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.1,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 5003.27
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 175,
+    'eigenstate': None,
+    'eigenvalue': -13.56935221354167,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 3.65824822e+00,  4.33544763e+00, -6.63523766e-02,  3.33183152e+00,
+        4.37936548e+00, -4.77017027e-03,  3.85057416e+00,  4.08757793e+00,
+       -5.79203533e-02,  3.10740287e+00, -1.39956899e+00, -2.72573548e-02,
+       -1.32832780e-01, -1.06689110e-01,  2.43443355e+00, -1.02168376e-01,
+       -1.11322404e-01,  1.65321261e+00,  2.79811661e-01, -3.33355450e-01,
+        7.68648518e+00,  4.92482439e+00,  2.61817536e-01, -3.17441592e-01]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -13.56935221
+Result eigen value: -13.56935221
+Expected ground state energy: -18.00000000
+Computed ground state energy: -13.56935221
+Relative error: 24.61470992 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.2000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.2,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 59664.47
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 175,
+    'eigenstate': None,
+    'eigenvalue': -16.150585937500004,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 2.93705477, -1.55625119,  0.06514551,  4.37940544,  3.29189494,
+       -1.09858161, -0.23373817,  4.06350506,  2.95272729, -1.49892332,
+        0.10530485,  0.00716959,  2.91762441,  0.11508891,  3.36311761,
+        0.19821301,  0.61268713, -0.41322951, -0.75935206,  0.2599656 ,
+        0.01517758,  0.19475899,  1.64820985,  0.43119054]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -16.15058594
+Result eigen value: -16.15058594
+Expected ground state energy: -18.00000000
+Computed ground state energy: -16.15058594
+Relative error: 10.27452257 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.3000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.3,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 62818.43
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 175,
+    'eigenstate': None,
+    'eigenvalue': -17.67420247395834,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 3.55018547,  4.43549039, -0.01688792,  4.57735877,  3.13578951,
+        5.30316371, -0.27148074,  4.09982985,  3.37261741, -1.22107824,
+        0.0187399 , -0.01758237,  0.27352712, -0.06297589, -0.15870803,
+        0.17381112, -0.27773182, -0.38442337, -0.90384643,  0.39080813,
+        2.14827243,  0.1984901 , -0.55477819,  0.59006476]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -17.67420247
+Result eigen value: -17.67420247
+Expected ground state energy: -18.00000000
+Computed ground state energy: -17.67420247
+Relative error: 1.80998626 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.4000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.4,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 65967.20
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 175,
+    'eigenstate': None,
+    'eigenvalue': -18.897493489583344,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 3.42498476e+00,  4.55822464e+00, -4.89194600e-03,  4.65565913e+00,
+        3.16638566e+00,  4.89818315e+00, -6.26837478e-02,  4.19314869e+00,
+        3.05066788e+00, -1.35665073e+00,  4.30097797e-02, -9.94209350e-02,
+        6.08905956e+00, -3.78038047e-03, -2.69964394e-02,  9.16836980e-03,
+        2.08718003e+00, -2.06771538e-01, -5.29146743e-01,  2.19911824e-01,
+        2.78541952e-01,  1.80180893e-01,  7.88606840e-02, -4.75181175e-01]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -18.89749349
+Result eigen value: -18.89749349
+Expected ground state energy: -18.00000000
+Computed ground state energy: -18.89749349
+Relative error: 4.98607494 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.2500
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.25,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 66463.37
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 175,
+    'eigenstate': None,
+    'eigenvalue': -16.939697265625007,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 3.54866758,  4.34097508, -0.01994526,  4.52991498,  3.05982596,
+       -0.92202726, -0.36767496,  4.06374116,  3.2832638 ,  5.03178541,
+        0.05998243, -0.02631049, -0.05786614,  0.06319556,  5.92806106,
+        0.14577953,  5.42091132, -0.42284003, -0.88233077,  0.45167681,
+        1.65794868,  0.07297889,  0.84606004, -0.40636928]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -16.93969727
+Result eigen value: -16.93969727
+Expected ground state energy: -18.00000000
+Computed ground state energy: -16.93969727
+Relative error: 5.89057075 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.5000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.5,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 10070.49
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 175,
+    'eigenstate': None,
+    'eigenvalue': -22.02807617187501,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 7.08914233,  3.8230048 ,  3.28635328, -1.3945867 , -0.15068539,
+        4.31325447,  3.32512343, -1.43283595, -0.12759816,  3.2402945 ,
+        4.50965126, -0.02014665,  3.23869501,  0.11784868, -0.37441227,
+       -0.1208034 , -0.52213073,  0.25129238,  0.03396995, -0.87728857,
+        2.42123931,  0.27432932,  0.28905745,  0.17028219]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -22.02807617
+Result eigen value: -22.02807617
+Expected ground state energy: -18.00000000
+Computed ground state energy: -22.02807617
+Relative error: 22.37820095 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.3000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.3,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 12762.64
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 175,
+    'eigenstate': None,
+    'eigenvalue': -17.53582356770834,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 3.53858965,  4.53951679, -0.04881801,  4.57896187,  3.24663958,
+       -1.33680711, -0.06235867,  4.09289958,  2.88265634,  4.70695922,
+        0.1574738 ,  0.04731476,  0.3005888 ,  0.0223843 ,  2.11691057,
+        0.04384222,  1.34836527, -0.24941247, -1.47037581, -0.09037791,
+       -0.58444618,  0.19514037,  1.42012087,  1.69934826]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -17.53582357
+Result eigen value: -17.53582357
+Expected ground state energy: -18.00000000
+Computed ground state energy: -17.53582357
+Relative error: 2.57875796 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.3200
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.32,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 15930.57
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 175,
+    'eigenstate': None,
+    'eigenvalue': -19.1778125,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 5.40154324e+00,  3.89824497e+00,  3.18929181e+00, -1.46401796e+00,
+        6.14419710e-02,  4.55527936e+00,  3.11628152e+00, -1.53953879e+00,
+       -9.21410543e-02,  3.26171104e+00, -1.74217443e+00, -6.05173372e-02,
+       -2.22270091e-02, -1.23434614e-03,  6.53969776e+00, -1.47505078e-01,
+        2.54132450e+00,  1.12246305e-01,  3.35313694e+00, -7.73321070e-01,
+        9.08999440e-01,  5.05324999e+00,  3.61689463e-01,  3.73294471e+00]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -19.17781250
+Result eigen value: -19.17781250
+Expected ground state energy: -18.00000000
+Computed ground state energy: -19.17781250
+Relative error: 6.54340278 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.3400
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.34,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 19224.63
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 175,
+    'eigenstate': None,
+    'eigenvalue': -17.93602213541667,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 3.46210744,  4.49459758,  0.02617099,  4.56821914,  3.10521926,
+       -1.37063907,  0.2408801 ,  4.1796661 ,  3.14341203, -1.33256737,
+       -0.01067834, -0.07282422,  0.38370673,  0.00471107,  3.86576952,
+        0.14096303,  3.08199867, -0.2982986 ,  1.91529279,  0.22468703,
+        3.55743949,  0.32517054, -0.63641876,  0.28307661]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -17.93602214
+Result eigen value: -17.93602214
+Expected ground state energy: -18.00000000
+Computed ground state energy: -17.93602214
+Relative error: 0.35543258 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.3600
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.36,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 86680.49
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 175,
+    'eigenstate': None,
+    'eigenvalue': -16.95661458333334,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 3.45702997e+00,  4.58042691e+00, -9.82325714e-02,  4.78096331e+00,
+        3.11826943e+00,  4.80836010e+00, -1.45460197e-02,  4.04986350e+00,
+        3.39718504e+00, -1.47003666e+00,  1.74711991e-01, -1.08811416e-01,
+       -2.26861673e-01,  6.85118504e-02,  9.96595041e-01, -3.23557294e-03,
+        2.99466863e+00, -2.58950363e-01, -1.90656860e-01, -3.18953162e-01,
+        1.61537983e+00, -6.48399783e-02,  9.21552558e-01,  2.18259211e-02]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -16.95661458
+Result eigen value: -16.95661458
+Expected ground state energy: -18.00000000
+Computed ground state energy: -16.95661458
+Relative error: 5.79658565 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.3800
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.38,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 90622.98
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 175,
+    'eigenstate': None,
+    'eigenvalue': -16.901855468750007,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 3.34951805,  4.68985961, -0.12096339,  4.41568479,  3.0320183 ,
+       -1.30549344, -0.02502211,  4.0364693 ,  3.28820229, -1.26705974,
+        0.03284   , -0.07130208,  0.32573611,  0.08982988,  1.79490953,
+        0.37737783,  4.03009473, -0.42149652, -0.07834346,  0.35229522,
+        1.90594146,  0.18380318,  0.7943857 , -0.5048754 ]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -16.90185547
+Result eigen value: -16.90185547
+Expected ground state energy: -18.00000000
+Computed ground state energy: -16.90185547
+Relative error: 6.10080295 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.3200
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.32,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 74447.23
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 175,
+    'eigenstate': None,
+    'eigenvalue': -16.62138671875001,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 3.54466609,  4.47010371, -0.03621278,  4.12667748,  3.43245078,
+       -0.96110171,  0.25095199,  4.16363621,  3.07373633,  5.04669883,
+       -0.03415567,  0.05963468, -0.08545985,  0.04593435,  3.40468573,
+        0.38905866,  0.08816873, -0.3184418 ,  1.59303856,  0.35561438,
+        0.58749247,  0.39709534,  4.29843508,  0.2192751 ]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -16.62138672
+Result eigen value: -16.62138672
+Expected ground state energy: -18.00000000
+Computed ground state energy: -16.62138672
+Relative error: 7.65896267 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : COBYLA Maxiter: 150
+Resilience : ZNE shots: 2048 Weight: 1.4000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.4,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : COBYLA Maxiter: 150
+Resilience : ZNE shots: 2048 Weight: 1.5000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.5,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : COBYLA Maxiter: 150
+Resilience : ZNE shots: 2048 Weight: 1.4000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.4,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : COBYLA Maxiter: 150
+Resilience : ZNE shots: 2048 Weight: 1.5000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.5,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : COBYLA Maxiter: 150
+Resilience : ZNE shots: 2048 Weight: 1.5000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.5,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.3600
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.36,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.3500
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.35,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.3400
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.34,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.3700
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.37,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : COBYLA Maxiter: 150
+Resilience : ZNE shots: 2048 Weight: 1.4000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.4,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 2931.48
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 150,
+    'eigenstate': None,
+    'eigenvalue': 0.4468424479166669,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 1.99790499,  1.59392927, -0.52042699,  1.59236414, -0.65497075,
+        1.69927999, -0.52017338,  0.63880145,  1.86924401,  1.78696575,
+        0.44515606,  0.82330691,  1.0866274 ,  0.77436622,  0.35490993,
+        0.47006837,  0.63725327,  1.52792499,  0.15665555,  0.39477208,
+       -0.37102649,  0.58984111,  0.09660251,  0.28079964]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: 2.19365234
+Result eigen value: 0.44684245
+Expected ground state energy: -18.00000000
+Computed ground state energy: 2.19365234
+Relative error: 112.18695747 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : COBYLA Maxiter: 150
+Resilience : ZNE shots: 2048 Weight: 1.5000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.5,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 5882.20
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 150,
+    'eigenstate': None,
+    'eigenvalue': 6.4875488281250036,
+    'optimal_circuit': None,
+    'optimal_parameters': array([1.32427502, 1.33420343, 1.55453056, 1.40234877, 0.12326045,
+       1.67661436, 0.16617844, 1.53550486, 1.17272315, 1.15128972,
+       0.48837902, 0.2660698 , 0.42516092, 1.67892295, 1.55403944,
+       0.55994054, 0.75111632, 0.54772725, 0.48347156, 0.43600761,
+       0.05820664, 0.10102158, 0.46385676, 0.08730525]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: 8.93457031
+Result eigen value: 6.48754883
+Expected ground state energy: -18.00000000
+Computed ground state energy: 8.93457031
+Relative error: 149.63650174 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : COBYLA Maxiter: 150
+Resilience : ZNE shots: 2048 Weight: 1.6000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.6,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 8863.38
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 150,
+    'eigenstate': None,
+    'eigenvalue': -12.295052083333339,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 2.03606326,  2.31100054,  1.03392814, -0.86056959,  2.57089538,
+       -0.50021949,  2.98912856, -2.44043836, -0.11503918, -0.21027221,
+        3.30094685, -0.72334924,  2.81957113,  2.84945881, -1.39539375,
+        1.00536844,  0.28636023, -0.98397307,  1.43889746,  1.6790061 ,
+       -0.22961305,  0.37123038, -1.29914212,  0.43218248]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -10.73333333
+Result eigen value: -12.29505208
+Expected ground state energy: -18.00000000
+Computed ground state energy: -10.73333333
+Relative error: 40.37037037 %
+-----
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.3400
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.34,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 12390.63
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 175,
+    'eigenstate': None,
+    'eigenvalue': -17.990983072916677,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 5.07201625,  3.59109154,  3.5362053 ,  5.12285244, -0.10462789,
+        4.58747385,  3.14539977,  4.5701198 , -0.00753858, -1.88714592,
+        3.61388211, -0.05141647,  0.1753497 ,  0.09916082, -0.37512895,
+       -0.01014131, -0.2543975 ,  0.10865981,  4.6894667 , -0.17039377,
+       -0.57997766,  0.3113188 ,  0.6651821 ,  0.75348341]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -17.99098307
+Result eigen value: -17.99098307
+Expected ground state energy: -18.00000000
+Computed ground state energy: -17.99098307
+Relative error: 0.05009404 %
+-----Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.4000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.4,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 15794.52
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 175,
+    'eigenstate': None,
+    'eigenvalue': -18.910937500000003,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 3.69099022,  4.16731542, -0.03785221,  4.90979441,  3.19253126,
+        3.820527  ,  5.7168793 , -0.93664475,  3.19103644,  3.17124817,
+       -1.3709938 , -0.01776305,  0.02366783,  0.10712252,  2.07578458,
+       -0.26296998, -0.8194109 ,  1.06023398, -0.63782951, -0.66812039,
+        5.89861952,  1.58634808, -0.44315211,  2.25457254]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -18.91093750
+Result eigen value: -18.91093750
+Expected ground state energy: -18.00000000
+Computed ground state energy: -18.91093750
+Relative error: 5.06076389 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.5000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'nc-state',
+ 'hub': 'ibm-q-ncsu',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'grad-qc-class',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.5,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 19410.14
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 175,
+    'eigenstate': None,
+    'eigenvalue': -21.502197265625007,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 3.61488466,  4.20729406, -0.00737448,  4.76266177,  3.18762839,
+       -1.41382928,  0.16332912,  4.67136419,  2.97425574,  3.21029862,
+       -1.41366697,  0.02414659,  0.10714068,  0.0126752 ,  3.35862471,
+        0.13026162,  0.44633184, -0.26922454,  1.17538603, -0.25103998,
+       -0.86925753, -0.38804148, -0.50801665,  1.46197538]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -21.50219727
+Result eigen value: -21.50219727
+Expected ground state energy: -18.00000000
+Computed ground state energy: -21.50219727
+Relative error: 19.45665148 %
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : COBYLA Maxiter: 100
+Resilience : ZNE shots: 2048 Weight: 1.8000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'ibmquantumawards',
+ 'hub': 'ibm-q-community',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'open-science-22',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.8,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : COBYLA Maxiter: 100
+Resilience : ZNE shots: 2048 Weight: 1.8000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'ibmquantumawards',
+ 'hub': 'ibm-q-community',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'open-science-22',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.8,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : NFT Maxiter: 175
+Resilience : ZNE shots: 2048 Weight: 1.3400
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'ibmquantumawards',
+ 'hub': 'ibm-q-community',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'open-science-22',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.34,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : COBYLA Maxiter: 100
+Resilience : ZNE shots: 2048 Weight: 1.8000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'ibmquantumawards',
+ 'hub': 'ibm-q-community',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'open-science-22',
+ 'provider': 'ibm-q-community/ibmquantumawards/open-science-22',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.8,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+----------
+Ground state energy: -18.00
+Backend    : ibmq_guadalupe
+Ansatz     : EfficientSU2
+Optimizer  : COBYLA Maxiter: 100
+Resilience : ZNE shots: 2048 Weight: 1.8000
+Optim lev  : 1 uniform_potential: 0.0000
+{'group': 'ibmquantumawards',
+ 'hub': 'ibm-q-community',
+ 'num_qubits': 16,
+ 'opt_level': 1,
+ 'project': 'open-science-22',
+ 'provider': 'ibm-q-community/ibmquantumawards/open-science-22',
+ 'qubit_layout': [1, 2, 3, 5, 8, 11, 14, 13, 12, 10, 7, 4],
+ 'run_backend': 'ibmq_guadalupe',
+ 'shots': 2048,
+ 'transpile_backend': 'ibmq_guadalupe',
+ 'uniform_interaction': 1.8,
+ 'uniform_potential': 0.0,
+ 'verbosity': 2}
+Execution time (s): 23294.63
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 100,
+    'eigenstate': None,
+    'eigenvalue': -18.203906250000006,
+    'optimal_circuit': None,
+    'optimal_parameters': array([ 3.1572289 ,  1.91142062, -0.19596529,  0.95610127,  2.35704953,
+        3.35008992, -1.16514537,  0.1914576 ,  3.96235103,  2.84727715,
+       -0.09877085,  0.90840997,  2.4810889 ,  3.05145378, -0.09402649,
+        2.71926391,  2.95438152,  1.18629078, -0.17632061,  1.80234272,
+        1.71428381,  0.2048178 ,  0.61094545,  0.1969888 ]),
+    'optimal_point': None,
+    'optimal_value': None,
+    'optimizer_evals': None,
+    'optimizer_result': None,
+    'optimizer_time': None}
+Computed ground state energy: -17.89892578
+Result eigen value: -18.20390625
+Expected ground state energy: -18.00000000
+Computed ground state energy: -17.89892578
+Relative error: 0.56152344 %
